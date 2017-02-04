@@ -60,7 +60,7 @@ function getQRCodeURL(qrcodeurl) {
 document.addEventListener('DOMContentLoaded', function() {
   getCurrentTabUrl(function(url) {
     // Put the image URL in Google search.
-    renderStatus('Scann mich!');
+    renderStatus(url + ':');
     var someURL = 'http://chart.apis.google.com/chart?chs=200x200&cht=qr&chld=L&chl=' + url;
     getQRCodeURL(someURL);
 
