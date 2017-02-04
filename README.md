@@ -6,7 +6,7 @@ This project was chosen as an introduction to the development of extensions for 
 ## ToDo
 - ~~create a better icon~~
 - ~~show text that has been converted~~
-- check permissions are all necessary or if "activeTab" would be sufficient (https://developer.chrome.com/extensions/activeTab)
+- check if permissions are all necessary or if "activeTab" would be sufficient (https://developer.chrome.com/extensions/activeTab)
 - tidy up code
 - check URLs/text from the URL-field for special characters and encode them correctly
 - use an internal QR-code generator for real offline functionality / may be used behind restricted company proxies.
