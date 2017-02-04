@@ -4,6 +4,7 @@ This project was chosen as an introduction to the development of extensions for 
 
 ToDo:
 - create a better icon
+- Show text that has been converted
 - tidy up code
 - check URLs/text from the URL-field for special characters and encode them correctly
 - use an internal QR-code generator for real offline functionality / may be used behind restricted company proxies.
