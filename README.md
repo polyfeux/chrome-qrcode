@@ -1,9 +1,9 @@
-#### Description
+### Description
 This Google Chrome extension converts the URL of the current tab of the Chrome browser into a QR-code. To convert the URL the extension uses the [Google Charts API](https://developers.google.com/chart/interactive/docs/reference).
 
 This project was chosen as an introduction to the development of extensions for Google Chrome. And to create a URL-to-QR converter where I would know, whose code is doing the work; useful especially in stricter/confidential work environments.
 
-#### ToDo
+### ToDo
 - create a better icon
 - show text that has been converted
 - check permissions are all necessary or if "activeTab" would be sufficient (https://developer.chrome.com/extensions/activeTab)
