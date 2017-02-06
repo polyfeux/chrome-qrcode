@@ -64,6 +64,5 @@ document.addEventListener('DOMContentLoaded', function() {
     var someURL = 'http://chart.apis.google.com/chart?chs=200x200&cht=qr&chld=L&chl=' + url;
     getQRCodeURL(someURL);
 
-
   });
 });

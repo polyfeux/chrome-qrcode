@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 
 	"name": "URL-to-QR Converter",
-	"description": "Extension to convert the URL to QR in Google Chrome.",
+	"description": "Extension to convert the URL to QR-Code in Google Chrome.",
 	"version": "0.1",
 
 	"browser_action": {
